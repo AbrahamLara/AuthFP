@@ -1,4 +1,4 @@
-# iOS-Messagin-App
+# iOS-Messaging-App
 
 A project I have worked on for educational purposes since I was very interested in improving iOS development skills.
 
