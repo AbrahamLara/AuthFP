@@ -1,9 +1,14 @@
 # iOS-Messaging-App
 
-A project I have worked on for educational purposes since I was very interested in improving iOS development skills.
+AuthFP (Authentication Firebase Project) is an iOS messaging app that allows users to send and recieve text, image, and video messages. This app utilizes Google's Firebase API users authentication, realtime database, and storage. I worked on this project when I was becoming interested in programming.
 
-You can go to your Firebase Console and download the "GoogleService-Info.plist" then drag it into your Xcode project
-once you have it open
+# Setup
+
+* Go into your firebase [console](https://console.firebase.google.com/) and create a new project
+
+* Click 'Add App' under your project name
+
+* Select iOS and follow the instructions displayed
 
 # Screenshots
 
